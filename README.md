@@ -1,16 +1,22 @@
-## Hi there 👋
+# 📢 **Murcia Digital**
 
-<!--
-**Murcia-dev/Murcia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Murcia Digital** es una agencia especializada en **marketing digital y estrategias de comunicación online**.  
+Ayudamos a marcas y negocios a potenciar su presencia en internet mediante campañas personalizadas, optimización SEO y publicidad digital.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Sobre este perfil de GitHub
+
+Este espacio está dedicado al **desarrollo, mantenimiento y despliegue de nuestros proyectos web y herramientas digitales**.
+
+---
+
+## 📫 Contacto
+
+- 📧 **Correo**: murciadigitalmza@gmail.com
+- 📱 **Instagram**: [https://www.instagram.com/murcia_digital]
+
+---
+> ⚠️ **Nota**: Este GitHub es administrado por el equipo de desarrollo y marketing de Murcia Digital.  
+> El acceso a repositorios privados está restringido al personal y colaboradores autorizados.
+

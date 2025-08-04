@@ -14,7 +14,7 @@ Este espacio está dedicado al **desarrollo, mantenimiento y despliegue de nuest
 ## 📫 Contacto
 
 - 📧 **Correo**: murciadigitalmza@gmail.com
-- 📱 **Instagram**: [https://www.instagram.com/murcia_digital]
+- 📱 **Instagram**: https://www.instagram.com/murcia_digital
 
 ---
 > ⚠️ **Nota**: Este GitHub es administrado por el equipo de desarrollo y marketing de Murcia Digital.  
